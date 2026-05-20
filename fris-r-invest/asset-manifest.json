@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/fris-r-invest/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/fris-r-invest/static/js/main.71293c76.js",
+    "index.html": "/addisweb-previews/fris-r-invest/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/fris-r-invest/static/css/main.3d0eaa47.css.map",
+    "main.71293c76.js.map": "/addisweb-previews/fris-r-invest/static/js/main.71293c76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.71293c76.js"
+  ]
+}
