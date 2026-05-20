@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/fris-r-gullsaksen/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/fris-r-gullsaksen/static/js/main.081b336e.js",
+    "index.html": "/addisweb-previews/fris-r-gullsaksen/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/fris-r-gullsaksen/static/css/main.3d0eaa47.css.map",
+    "main.081b336e.js.map": "/addisweb-previews/fris-r-gullsaksen/static/js/main.081b336e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.081b336e.js"
+  ]
+}
