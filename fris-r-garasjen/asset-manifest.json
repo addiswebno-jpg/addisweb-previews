@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/fris-r-garasjen/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/fris-r-garasjen/static/js/main.da5eba6f.js",
+    "index.html": "/addisweb-previews/fris-r-garasjen/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/fris-r-garasjen/static/css/main.3d0eaa47.css.map",
+    "main.da5eba6f.js.map": "/addisweb-previews/fris-r-garasjen/static/js/main.da5eba6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.da5eba6f.js"
+  ]
+}
