@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/fris-r-h-s-deg-rdstuen/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/fris-r-h-s-deg-rdstuen/static/js/main.7ea23ddf.js",
+    "index.html": "/addisweb-previews/fris-r-h-s-deg-rdstuen/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/fris-r-h-s-deg-rdstuen/static/css/main.3d0eaa47.css.map",
+    "main.7ea23ddf.js.map": "/addisweb-previews/fris-r-h-s-deg-rdstuen/static/js/main.7ea23ddf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.7ea23ddf.js"
+  ]
+}
