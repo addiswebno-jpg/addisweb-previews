@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/klippen-fris-r/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/klippen-fris-r/static/js/main.ce25a9ca.js",
+    "index.html": "/addisweb-previews/klippen-fris-r/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/klippen-fris-r/static/css/main.3d0eaa47.css.map",
+    "main.ce25a9ca.js.map": "/addisweb-previews/klippen-fris-r/static/js/main.ce25a9ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.ce25a9ca.js"
+  ]
+}
