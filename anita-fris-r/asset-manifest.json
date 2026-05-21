@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/anita-fris-r/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/anita-fris-r/static/js/main.6c2f8dbb.js",
+    "index.html": "/addisweb-previews/anita-fris-r/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/anita-fris-r/static/css/main.3d0eaa47.css.map",
+    "main.6c2f8dbb.js.map": "/addisweb-previews/anita-fris-r/static/js/main.6c2f8dbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.6c2f8dbb.js"
+  ]
+}
