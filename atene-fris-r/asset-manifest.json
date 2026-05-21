@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/atene-fris-r/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/atene-fris-r/static/js/main.b2f94cd0.js",
+    "index.html": "/addisweb-previews/atene-fris-r/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/atene-fris-r/static/css/main.3d0eaa47.css.map",
+    "main.b2f94cd0.js.map": "/addisweb-previews/atene-fris-r/static/js/main.b2f94cd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.b2f94cd0.js"
+  ]
+}
