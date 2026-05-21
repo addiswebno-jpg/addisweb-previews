@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/arne-fris-r/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/arne-fris-r/static/js/main.8d484511.js",
+    "index.html": "/addisweb-previews/arne-fris-r/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/arne-fris-r/static/css/main.3d0eaa47.css.map",
+    "main.8d484511.js.map": "/addisweb-previews/arne-fris-r/static/js/main.8d484511.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.8d484511.js"
+  ]
+}
