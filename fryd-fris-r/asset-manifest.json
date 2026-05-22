@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/fryd-fris-r/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/fryd-fris-r/static/js/main.30f438d0.js",
+    "index.html": "/addisweb-previews/fryd-fris-r/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/fryd-fris-r/static/css/main.3d0eaa47.css.map",
+    "main.30f438d0.js.map": "/addisweb-previews/fryd-fris-r/static/js/main.30f438d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.30f438d0.js"
+  ]
+}
