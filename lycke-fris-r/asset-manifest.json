@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/lycke-fris-r/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/lycke-fris-r/static/js/main.60666edc.js",
+    "index.html": "/addisweb-previews/lycke-fris-r/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/lycke-fris-r/static/css/main.3d0eaa47.css.map",
+    "main.60666edc.js.map": "/addisweb-previews/lycke-fris-r/static/js/main.60666edc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.60666edc.js"
+  ]
+}
