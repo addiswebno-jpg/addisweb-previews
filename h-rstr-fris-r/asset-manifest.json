@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/h-rstr-fris-r/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/h-rstr-fris-r/static/js/main.e9926c2b.js",
+    "index.html": "/addisweb-previews/h-rstr-fris-r/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/h-rstr-fris-r/static/css/main.3d0eaa47.css.map",
+    "main.e9926c2b.js.map": "/addisweb-previews/h-rstr-fris-r/static/js/main.e9926c2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.e9926c2b.js"
+  ]
+}
