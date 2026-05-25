@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addisweb-previews/apollo-fris-r/static/css/main.3d0eaa47.css",
+    "main.js": "/addisweb-previews/apollo-fris-r/static/js/main.39975e83.js",
+    "index.html": "/addisweb-previews/apollo-fris-r/index.html",
+    "main.3d0eaa47.css.map": "/addisweb-previews/apollo-fris-r/static/css/main.3d0eaa47.css.map",
+    "main.39975e83.js.map": "/addisweb-previews/apollo-fris-r/static/js/main.39975e83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0eaa47.css",
+    "static/js/main.39975e83.js"
+  ]
+}
